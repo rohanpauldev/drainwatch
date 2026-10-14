@@ -1,0 +1,11 @@
+id,name,ward,lat,lon,severity_1to5,complaints_12m,critical_access,access_note,status,source
+H1,Demo A: Market road junction,"Demo Ward, Dhaka",23.8109,90.3701,5,5,market,Main trading road with heavy daily footfall,pending,demo
+H2,Demo B: School access road,"Demo Ward, Dhaka",23.8041,90.3647,4,4,school,Primary school entrance road,pending,demo
+H3,Demo C: Clinic approach lane,"Demo Ward, Dhaka",23.8132,90.3618,4,3,clinic,Community clinic approach lane,pending,demo
+H4,Demo D: Residential lane east,"Demo Ward, Dhaka",23.8018,90.3735,3,2,none,,pending,demo
+H5,Demo E: Bus stand crossing,"Demo Ward, Dhaka",23.8087,90.3769,3,4,main_road,Bus stand crossing on the main road,pending,demo
+H6,Demo F: Canal-side outfall,"Demo Ward, Dhaka",23.7975,90.3671,5,3,,Access not yet surveyed,pending,demo
+H7,Demo G: Footpath behind market,"Demo Ward, Dhaka",23.8151,90.3692,2,1,none,,pending,demo
+H8,Demo H: Blocked culvert on ring road,"Demo Ward, Dhaka",23.8062,90.3601,4,,main_road,Culvert obstruction reported by ward staff,inspected,demo
+H9,Demo I: Low-lying playground lane,"Demo Ward, Dhaka",23.7999,90.3628,2,2,none,,resolved,demo
+H10,Demo J: Hospital back gate,"Demo Ward, Dhaka",23.8123,90.3735,3,2,hospital,Back gate used by ambulances,pending,demo
